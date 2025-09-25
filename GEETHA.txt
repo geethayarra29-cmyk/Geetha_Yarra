@@ -1,0 +1,7 @@
+MARKS LIST
+
+NAME         C      PYTHON     JAVA
+GEETHA       92        88        82
+APARNA       88        87        65
+LALITHA      76        85        43
+ASHA         65        90        77
